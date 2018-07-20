@@ -1,0 +1,16 @@
+# GUI Start-up
+
+from Tkinter import *
+
+root = tk()
+
+root.title("barBotGUI")
+root.geometry("400x200")
+
+# Start up GUI
+root.mainloop()
+
+
+
+
+
